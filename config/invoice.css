@@ -1,0 +1,40 @@
+.heading {
+	font-family: verdana;
+	font-size: 10px;
+	font-weight : normal; 
+}
+
+.invoice {
+	font-family: arial;
+	font-size: 32px;
+	font-weight : bold; 
+	text-align:center;			
+}
+
+.customer {
+	font-family: verdana;
+	font-size: 14px;
+	font-weight : normal; 
+	padding-right: 20px;
+	padding-left: 20px;	
+}
+
+.detail {
+	font-family: verdana;
+	font-size: 14px;
+	font-weight : normal; 
+	padding-bottom: 10px;	
+}
+
+.amount {
+	font-family: verdana;
+	font-size: 10px;
+	font-weight : normal; 
+	padding-bottom: 10px;	
+}
+
+.footnote {
+	font-family: verdana;
+	font-size: 10px;
+	font-weight : normal; 
+}

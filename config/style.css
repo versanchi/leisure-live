@@ -1,0 +1,132 @@
+a:link, a:visited {
+	color:#007495;
+	font-weight:bold;
+	text-decoration:none;
+}
+a:hover {
+	color:#FF9900;
+	font-weight:bold;	
+}
+input, select{
+    background-color: #EEEEEE;
+    font-size: 10px;
+}
+textarea{
+    background-color: #EEEEEE;
+    font-size: 12px;
+}
+hr {
+	border-bottom: 1px dashed #9d9d9d;
+}
+
+#menu{
+	font-family:Tahoma;
+	font-size:12px;
+  color:#ffffff;
+}
+#menu a:link, #menu a:visited {
+	color: #ffff00;
+}
+#menu a:hover {
+	color:#ffffff;
+}
+#kiri{
+	font-family:Tahoma;
+	font-size:11px;
+  color:#ffffff;
+}
+#kiri a:link, #kiri a:visited {
+	color: #ffff00;
+}
+#kiri a:hover {
+	color:#ffffff;
+}
+
+.isi {
+	font-family:Tahoma;
+	font-size:11px;
+	padding-left:4px;
+	text-align:justify;
+	line-height: 18px;
+}
+.bullet{
+	font-family:Tahoma;
+	font-size:14px;
+	padding-left:4px;
+	color:#ffffff;
+	text-align:justify;
+	line-height: 18px;
+}
+.isi_kecil{
+	font-family:Tahoma;
+	font-size:11px;
+	padding-left:4px;
+	color:#FF6600;
+}
+.judul {
+	font-family:Tahoma;
+	font-size:12px;
+	font-weight:bold;
+	color:#265180;
+	padding-left:4px;
+}
+.judul_head {
+	font-family:Georgia;
+	font-size:12px;
+	font-weight:bold;
+	background-color: #B7BCC2;
+  color:#333333;
+  padding-left:4px;
+}
+.kembali {
+	font-family:Tahoma;
+	font-size:11px;
+	padding-left:4px;
+	text-align:center;
+}
+
+table {
+	font-family: Tahoma; 
+	font-size: 8pt;
+	border-width: 0px;
+	border-style: solid;
+	border-color: #999999;
+	border-collapse: collapse;
+	margin: 10px 0px;
+}
+th{
+	color: #FFFFFF;
+	font-size: 7pt;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 0.5em;
+	border-width: 0px;
+	border-style: solid;
+	border-color: #969BA5;
+	border-collapse: collapse;
+	background-color: #265180;
+}
+td{
+	padding: 0.5em;
+	vertical-align: top;
+	border-width: 0px;
+	border-style: solid;
+	border-color: #969BA5;
+	border-collapse: collapse;
+}
+input,textarea,select{
+	font-family: Tahoma; 
+	font-size: 8pt;
+}
+#paging{
+	font-family: Tahoma; 
+	font-size: 8pt; 
+}
+#footer{
+	padding: 20px 0 10px 255px; 
+	font-size: 70%;
+	color: #FFFFFF;
+	background-color: #265180;
+}
+
+
